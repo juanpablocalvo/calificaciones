@@ -24,25 +24,25 @@ Segundo semestre
  4. TALLER DE PROGRA:
   - MEDIO CURSO=35
   - ORDINARIO=
-  -TAREAS=89
-  -PROM=
+  - TAREAS=89
+  - PROM=
   
  5. PSICOLOGIA:
-  -MEDIO CURSO=96
-  -ORDINARIO=88
-  -PIA=
-  -NEXUS=
-  -PROM=
+  - MEDIO CURSO=96
+  - ORDINARIO=88
+  - PIA=
+  - NEXUS=
+  - PROM=
   
 6. ARTES:
-  -MEDIO CURSO=
-  -ORDINARIO=100
-  -PIA=100
-  -NEXUS=
-  -PROM=
+  - MEDIO CURSO=
+  - ORDINARIO=100
+  - PIA=100
+  - NEXUS=
+  - PROM=
 
 7. LAB FIS.2:
-  -PROMEDIO=
+  - PROMEDIO=
   
 8. LAB ESTRUCTURA DE DATOS:
   - MEDIO CURSO=
@@ -51,9 +51,9 @@ Segundo semestre
   - PROM=
   
 9. ESTRUCTURA DE DATOS:
-  -MEDIO CURSO=
-  -ORDINARIO**=
-  -ACTS=
-  -PROM=
+  - MEDIO CURSO=
+  - ORDINARIO**=
+  - ACTS=
+  - PROM=
   
   ** FALTA PRESENTAR
