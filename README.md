@@ -16,44 +16,44 @@ Segundo semestre
   - PROM=70
   
 3. ANSI C:
-  - EXAMEN 1= 
-  - EXAMEN 2=
-  - EXAMEN 3=
-  - PROM=
+  - EXAMEN 1= unknow
+  - EXAMEN 2= unknow
+  - EXAMEN 3= unknow
+  - PROM= 87
   
  4. TALLER DE PROGRA:
   - MEDIO CURSO=35
-  - ORDINARIO=
+  - ORDINARIO= 30
   - TAREAS=89
-  - PROM=
+  - PROM= 49
   
  5. PSICOLOGIA:
   - MEDIO CURSO=96
   - ORDINARIO=88
-  - PIA=
-  - NEXUS=
-  - PROM=
+  - PIA=78
+  - NEXUS=90.1
+  - PROM=90
   
 6. ARTES:
-  - MEDIO CURSO=
+  - MEDIO CURSO= unknow
   - ORDINARIO=100
   - PIA=100
-  - NEXUS=
-  - PROM=
+  - NEXUS= 95,95
+  - PROM= 96
 
 7. LAB FIS.2:
   - PROMEDIO=
   
 8. LAB ESTRUCTURA DE DATOS:
-  - MEDIO CURSO=
-  - ORDINARIO=
-  - PORTAFOLIO=
-  - PROM=
+  - MEDIO CURSO= unknow
+  - ORDINARIO= unknow
+  - PORTAFOLIO= unknow
+  - PROM= 94
   
 9. ESTRUCTURA DE DATOS:
   - MEDIO CURSO=
-  - ORDINARIO**=
+  - ORDINARIO=
   - ACTS=
   - PROM=
   
-  ** FALTA PRESENTAR
+  
